@@ -1,5 +1,5 @@
 {
-  "name": "aimia-newpro-highcharts",
+  "name": "@aimia-newpro/highcharts",
   "version": "4.2.3-bug-fixes",
   "description": "JavaScript charting framework",
   "main": "lib/highcharts",
